@@ -9,3 +9,9 @@ Thank you for visiting me!
 ![](https://img.shields.io/badge/Is%20person-NotSure-lightgrey)
 ![](https://img.shields.io/badge/Friend%20Count-NaN-orange)
 ![](https://img.shields.io/badge/Muscle-undefined-yellow)
+
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/dala00/posts.svg)](http://qiita.com/dala00)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/dala00/contributions.svg)](http://qiita.com/dala00)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/dala00/followers.svg)](http://qiita.com/dala00)
+                
