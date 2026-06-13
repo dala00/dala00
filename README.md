@@ -66,6 +66,7 @@ YouTube チャンネル「**だらだら音楽スタジオ**」（[@daladalamusi
 
 ## 連絡先
 
+- 会社: [アルファブレンド](https://www.alphabrend.co.jp/)
 - X (Twitter): [@dala00](https://x.com/dala00)
 - YouTube: [@daladalamusic](https://www.youtube.com/@daladalamusic)
 - Zenn: [@dala](https://zenn.dev/dala)
